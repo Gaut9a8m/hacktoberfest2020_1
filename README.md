@@ -1,2 +1,2 @@
-# hacktoberfest2020_1
-Make 4 pull request and win T-shirt
+Hacktoberfest2020
+Everyone is allowed to submit any thing ..
